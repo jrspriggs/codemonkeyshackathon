@@ -1,0 +1,7 @@
+{
+   "/v1/*": {
+      "target": "http://vddk35x-kz0mifo:8080",
+      "secure": false,
+      "logLevel": "debug"
+   }
+}

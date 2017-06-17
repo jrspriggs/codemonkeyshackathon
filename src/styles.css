@@ -10,3 +10,42 @@
   display: flex;
   align-items: center;
 }
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+
+/* Shaded Section Styles */
+
+.shaded-section, .navigation-section{
+  background: #f6f6f6;
+  border: 1px solid #e1e1e1;
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
+
+.shaded-section header, .navigation-section header{
+  background: #eee;
+  border-bottom: 1px solid #e1e1e1;
+  color: #444;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-bottom: 5px;
+  text-align: center;
+  font-weight: bold;
+  margin-top: 0px;
+}
+
+.shaded-section header .row-fluid [class*="span"], .navigation-section header .row-fluid [class*="span"]{
+  min-height: 0px;
+  text-align: left;
+  margin-left: 0px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.shaded-section header.errorLabelHighlight, .navigation-section header.errorLabelHighlight{
+  color: #CC0101;
+}

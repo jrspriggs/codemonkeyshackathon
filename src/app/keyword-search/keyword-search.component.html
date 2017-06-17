@@ -1,5 +1,38 @@
-<div class="vertical-center"> 
-  <div class="container">
-    Keyword Search will go on here 
+<div> 
+  <form [formGroup]="searchFormGroup">
+    Enter a company name: 
+    <input type="text" id="keywordText" 
+              class="panel-input span10 form-control" 
+              formControlName="keywordText" />
+      <div class="center">
+          <button id="startSearchButton" type="button" class="btn btn-orange rounded rounded"  (click)="callSearch()"><span>Search</span></button>
+      </div>
+  </form>
+</div>
+<div class="container">
+  <div class="row">
+    <div class="col">
+      Company Name
+    </div>
+    <div class="col-4">
+      Company Address
+    </div>
+    <div class="col">
+      Company Size
+    </div>
+  </div>
+  <div *ngFor="let result of results | async" class="row">
+    <div class="col">
+      {{result.hitNumber}}: {{result.companyResults.companyName}}  
+    </div>
+    <div class="col-4">
+      {{result.companyResults.address1}} 
+      {{result.companyResults.city}} 
+      {{result.companyResults.stateOrProvince}}, 
+      {{result.companyResults.postalCode}} 
+    </div>
+    <div class="col">
+      {{result.companyResults.employeesTotal}} People
+    </div>
   </div>
 </div>
