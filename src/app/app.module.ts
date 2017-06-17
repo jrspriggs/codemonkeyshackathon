@@ -11,12 +11,14 @@ import { AppComponent } from './app.component';
 import { AppRoutingModule } from './app-routing.module';
 import { KeywordSearchComponent } from './keyword-search/keyword-search.component';
 import { CompanyDetailsComponent } from './company-details/company-details.component';
+import { QuotePricingComponent } from './quote-pricing/quote-pricing.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     KeywordSearchComponent,
-    CompanyDetailsComponent
+    CompanyDetailsComponent,
+    QuotePricingComponent
   ],
   imports: [
     BrowserModule,

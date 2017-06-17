@@ -1,6 +1,10 @@
 <div> 
-  <form [formGroup]="searchFormGroup">
-    Enter a company name: 
+  <form [formGroup]="searchFormGroup" (ngSubmit)="callSearch()">
+    <label [ngClass]="required" class="panel-label span10"  attr.for="keywordText">
+        Enter a company name:
+        <span class="red"> * </span>
+    </label>
+    
     <input type="text" id="keywordText" 
               class="panel-input span10 form-control" 
               formControlName="keywordText" />
@@ -9,6 +13,7 @@
       </div>
   </form>
 </div>
+<!-- results found section -->
 <div class="container">
   <div class="row">
     <div class="col">
@@ -21,7 +26,7 @@
       Company Size
     </div>
   </div>
-  <div *ngFor="let result of results | async" class="row" (click)="gotoCompanyDetail(result.companyResults)">
+  <div *ngFor="let result of results | async" class="row searchResultsRow" (click)="gotoCompanyDetail(result.companyResults)">
     <div class="col">
       {{result.hitNumber}}: {{result.companyResults.companyName}}  
     </div>
@@ -33,6 +38,14 @@
     </div>
     <div class="col">
       {{result.companyResults.employeesTotal}} People
+    </div>
+  </div>
+</div>
+<!-- no results found section -->
+<div class="container"  *ngIf="(results | async)?.length === 0">
+  <div class="row">
+    <div class="col-6 center">
+      No results returned
     </div>
   </div>
 </div>

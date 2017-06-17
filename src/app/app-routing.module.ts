@@ -3,9 +3,10 @@ import { Routes, RouterModule } from '@angular/router';
 import { CompanyDetailsComponent } from './company-details/company-details.component';
 import { KeywordSearchComponent } from './keyword-search/keyword-search.component';
 import { CompanyDetailsResolver } from './services/company-details.resolver.service';
+import { QuotePricingComponent } from './quote-pricing/quote-pricing.component';
 
 const routes: Routes = [
-  { path: '', redirectTo: '/search', pathMatch: 'full' },
+  { path: '', redirectTo: '/quote', pathMatch: 'full' },
   { path: 'search', component: KeywordSearchComponent },
   {
     path: 'detail/:id',
@@ -13,7 +14,8 @@ const routes: Routes = [
     resolve: {
       companyDetails: CompanyDetailsResolver
     }
-  }
+  },
+  { path: 'quote', component: QuotePricingComponent },
 ];
 
 @NgModule({
