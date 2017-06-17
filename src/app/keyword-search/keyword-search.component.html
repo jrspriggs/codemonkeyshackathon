@@ -21,7 +21,7 @@
       Company Size
     </div>
   </div>
-  <div *ngFor="let result of results | async" class="row">
+  <div *ngFor="let result of results | async" class="row" (click)="gotoCompanyDetail(result.companyResults)">
     <div class="col">
       {{result.hitNumber}}: {{result.companyResults.companyName}}  
     </div>
