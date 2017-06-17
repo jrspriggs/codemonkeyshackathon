@@ -6,7 +6,7 @@ import { CompanyDetailsResolver } from './services/company-details.resolver.serv
 import { QuotePricingComponent } from './quote-pricing/quote-pricing.component';
 
 const routes: Routes = [
-  { path: '', redirectTo: '/quote', pathMatch: 'full' },
+  { path: '', redirectTo: '/search', pathMatch: 'full' },
   { path: 'search', component: KeywordSearchComponent },
   {
     path: 'detail/:id',
