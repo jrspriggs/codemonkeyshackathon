@@ -1,7 +1,24 @@
 <h3>
-  Details for {{companyDetails.name}}    
-  <button id="getQuoteButton" type="button" class="btn btn-orange rounded rounded" ><span>Get Quote!</span></button>  
+  Details for {{companyDetails.name}}   
 </h3>
+<h4>
+  Class Code: {{companyDetails.primaryClassCode.classCodeDesc}}
+</h4>
+<section class="shaded-section">
+    <header>
+        Coverages
+    </header>
+    <div class="container" [formGroup]="mainFormGroup">
+        <div *ngFor="let coverage of companyDetails.coverages">
+          <app-coverage-detail [coverage]=coverage #coverageForm></app-coverage-detail>
+       </div>
+    </div>
+    <br />
+    <div>
+      ${{premiumAmount}}
+    </div>
+</section>
+    <button id="getQuoteButton" (click)="gotoQuote()" type="button" class="btn btn-orange rounded rounded" ><span>Get Quote!</span></button>  
 <div>
   We can use this screen for data confirmation
 </div>

@@ -43,7 +43,6 @@ export class KeywordSearchComponent implements OnInit {
   }
 
   callSearch() {
-    console.log("is this bleeding thing running?");
     // Push a search term into the observable stream.
     this.searchTerm.next(this.searchFormGroup.get('keywordText').value);
     this.showResults = true;

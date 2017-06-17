@@ -1,0 +1,882 @@
+{
+  "otherURLs": {
+    "url": []
+  },
+  "ukSpecs": {
+    "ukRegistration": null,
+    "ukVAT": null,
+    "numberOfSubsidiaries": null
+  },
+  "bankName": "",
+  "marketingPreScreenScore": "M",
+  "phones": {
+    "phoneNumber": [
+      {
+        "areaCode": "650",
+        "doNotCallRegistry": false,
+        "phoneNumber": "5067000",
+        "countryCode": "1"
+      }
+    ],
+    "faxNumber": [
+      {
+        "areaCode": "650",
+        "doNotCallRegistry": false,
+        "phoneNumber": "5067304",
+        "countryCode": "1"
+      }
+    ]
+  },
+  "nonMarketableCompany": null,
+  "parentName": "ORA...",
+  "locations": {
+    "location": [
+      {
+        "city": "Redwood City",
+        "addressType": "PRIMARY_ADDRESS",
+        "countryId": 76,
+        "stateOfIncorporation": null,
+        "zip": "94065",
+        "address1": "500 Oracle Pkwy",
+        "address2": "",
+        "longitude": -122.261186,
+        "county": "San...",
+        "state": "CA",
+        "country": "United States",
+        "latitude": 37.530968,
+        "metroArea": "San Francisco-Oakland-Hayward CA",
+        "latLongAccuracy": "D",
+        "zip4": "1675"
+      }
+    ]
+  },
+  "yearFounded": "1980",
+  "duns": "242785365",
+  "keyNumbersHistory": {
+    "quarterlyKeyNumbersHistory": {
+      "keyNumbers": [
+        {
+          "salesAccuracy": "ACT...",
+          "employeesAtThisLocationAccuracy": null,
+          "employeesTotalAccuracy": null,
+          "sales": 9205,
+          "periodEndMonth": "Feb...",
+          "employeesTotal": null,
+          "researchAndDevelopment": null,
+          "advertising": null,
+          "employeesAtThisLocation": null,
+          "totalEmployeeGrowthPercent": null,
+          "fiscalPeriod": "3Q2..."
+        },
+        {
+          "salesAccuracy": "ACT...",
+          "employeesAtThisLocationAccuracy": null,
+          "employeesTotalAccuracy": null,
+          "sales": 9035,
+          "periodEndMonth": "Nov...",
+          "employeesTotal": null,
+          "researchAndDevelopment": null,
+          "advertising": null,
+          "employeesAtThisLocation": null,
+          "totalEmployeeGrowthPercent": null,
+          "fiscalPeriod": "2Q2..."
+        },
+        {
+          "salesAccuracy": "ACT...",
+          "employeesAtThisLocationAccuracy": null,
+          "employeesTotalAccuracy": null,
+          "sales": 8595,
+          "periodEndMonth": "Aug...",
+          "employeesTotal": null,
+          "researchAndDevelopment": null,
+          "advertising": null,
+          "employeesAtThisLocation": null,
+          "totalEmployeeGrowthPercent": null,
+          "fiscalPeriod": "1Q2..."
+        },
+        {
+          "salesAccuracy": "ACT...",
+          "employeesAtThisLocationAccuracy": null,
+          "employeesTotalAccuracy": null,
+          "sales": 10594,
+          "periodEndMonth": "May...",
+          "employeesTotal": null,
+          "researchAndDevelopment": null,
+          "advertising": null,
+          "employeesAtThisLocation": null,
+          "totalEmployeeGrowthPercent": null,
+          "fiscalPeriod": "4Q2..."
+        },
+        {
+          "salesAccuracy": "ACT...",
+          "employeesAtThisLocationAccuracy": null,
+          "employeesTotalAccuracy": null,
+          "sales": 9012,
+          "periodEndMonth": "Feb...",
+          "employeesTotal": null,
+          "researchAndDevelopment": null,
+          "advertising": null,
+          "employeesAtThisLocation": null,
+          "totalEmployeeGrowthPercent": null,
+          "fiscalPeriod": "3Q2..."
+        },
+        {
+          "salesAccuracy": "ACT...",
+          "employeesAtThisLocationAccuracy": null,
+          "employeesTotalAccuracy": null,
+          "sales": 8993,
+          "periodEndMonth": "Nov...",
+          "employeesTotal": null,
+          "researchAndDevelopment": null,
+          "advertising": null,
+          "employeesAtThisLocation": null,
+          "totalEmployeeGrowthPercent": null,
+          "fiscalPeriod": "2Q2..."
+        },
+        {
+          "salesAccuracy": "ACT...",
+          "employeesAtThisLocationAccuracy": null,
+          "employeesTotalAccuracy": null,
+          "sales": 8448,
+          "periodEndMonth": "Aug...",
+          "employeesTotal": null,
+          "researchAndDevelopment": null,
+          "advertising": null,
+          "employeesAtThisLocation": null,
+          "totalEmployeeGrowthPercent": null,
+          "fiscalPeriod": "1Q2..."
+        },
+        {
+          "salesAccuracy": "ACT...",
+          "employeesAtThisLocationAccuracy": null,
+          "employeesTotalAccuracy": null,
+          "sales": 10706,
+          "periodEndMonth": "May...",
+          "employeesTotal": null,
+          "researchAndDevelopment": null,
+          "advertising": null,
+          "employeesAtThisLocation": null,
+          "totalEmployeeGrowthPercent": null,
+          "fiscalPeriod": "4Q2..."
+        },
+        {
+          "salesAccuracy": "ACT...",
+          "employeesAtThisLocationAccuracy": null,
+          "employeesTotalAccuracy": null,
+          "sales": 9327,
+          "periodEndMonth": "Feb...",
+          "employeesTotal": null,
+          "researchAndDevelopment": null,
+          "advertising": null,
+          "employeesAtThisLocation": null,
+          "totalEmployeeGrowthPercent": null,
+          "fiscalPeriod": "3Q2..."
+        },
+        {
+          "salesAccuracy": "ACT...",
+          "employeesAtThisLocationAccuracy": null,
+          "employeesTotalAccuracy": null,
+          "sales": 9598,
+          "periodEndMonth": "Nov...",
+          "employeesTotal": null,
+          "researchAndDevelopment": null,
+          "advertising": null,
+          "employeesAtThisLocation": null,
+          "totalEmployeeGrowthPercent": null,
+          "fiscalPeriod": "2Q2..."
+        },
+        {
+          "salesAccuracy": "ACT...",
+          "employeesAtThisLocationAccuracy": null,
+          "employeesTotalAccuracy": null,
+          "sales": 8596,
+          "periodEndMonth": "Aug...",
+          "employeesTotal": null,
+          "researchAndDevelopment": null,
+          "advertising": null,
+          "employeesAtThisLocation": null,
+          "totalEmployeeGrowthPercent": null,
+          "fiscalPeriod": "1Q2..."
+        },
+        {
+          "salesAccuracy": "ACT...",
+          "employeesAtThisLocationAccuracy": null,
+          "employeesTotalAccuracy": null,
+          "sales": 11320,
+          "periodEndMonth": "May...",
+          "employeesTotal": null,
+          "researchAndDevelopment": null,
+          "advertising": null,
+          "employeesAtThisLocation": null,
+          "totalEmployeeGrowthPercent": null,
+          "fiscalPeriod": "4Q2..."
+        },
+        {
+          "salesAccuracy": "ACT...",
+          "employeesAtThisLocationAccuracy": null,
+          "employeesTotalAccuracy": null,
+          "sales": 9307,
+          "periodEndMonth": "Feb...",
+          "employeesTotal": null,
+          "researchAndDevelopment": null,
+          "advertising": null,
+          "employeesAtThisLocation": null,
+          "totalEmployeeGrowthPercent": null,
+          "fiscalPeriod": "3Q2..."
+        },
+        {
+          "salesAccuracy": "ACT...",
+          "employeesAtThisLocationAccuracy": null,
+          "employeesTotalAccuracy": null,
+          "sales": 9275,
+          "periodEndMonth": "Nov...",
+          "employeesTotal": null,
+          "researchAndDevelopment": null,
+          "advertising": null,
+          "employeesAtThisLocation": null,
+          "totalEmployeeGrowthPercent": null,
+          "fiscalPeriod": "2Q2..."
+        }
+      ]
+    },
+    "annualKeyNumbersHistory": {
+      "keyNumbers": [
+        {
+          "salesAccuracy": null,
+          "employeesAtThisLocationAccuracy": "ACT...",
+          "employeesTotalAccuracy": null,
+          "sales": null,
+          "periodEndMonth": "",
+          "employeesTotal": null,
+          "researchAndDevelopment": null,
+          "advertising": null,
+          "employeesAtThisLocation": 2300,
+          "totalEmployeeGrowthPercent": null,
+          "fiscalPeriod": "FY"
+        },
+        {
+          "salesAccuracy": "ACT...",
+          "employeesAtThisLocationAccuracy": null,
+          "employeesTotalAccuracy": "ACT...",
+          "sales": 37047,
+          "periodEndMonth": "May...",
+          "employeesTotal": 136000,
+          "researchAndDevelopment": null,
+          "advertising": null,
+          "employeesAtThisLocation": null,
+          "totalEmployeeGrowthPercent": 3.03,
+          "fiscalPeriod": "FY2..."
+        },
+        {
+          "salesAccuracy": "ACT...",
+          "employeesAtThisLocationAccuracy": null,
+          "employeesTotalAccuracy": "ACT...",
+          "sales": 38226,
+          "periodEndMonth": "May...",
+          "employeesTotal": 132000,
+          "researchAndDevelopment": null,
+          "advertising": null,
+          "employeesAtThisLocation": null,
+          "totalEmployeeGrowthPercent": 8.2,
+          "fiscalPeriod": "FY2..."
+        },
+        {
+          "salesAccuracy": "ACT...",
+          "employeesAtThisLocationAccuracy": null,
+          "employeesTotalAccuracy": "ACT...",
+          "sales": 38275,
+          "periodEndMonth": "May...",
+          "employeesTotal": 122000,
+          "researchAndDevelopment": null,
+          "advertising": null,
+          "employeesAtThisLocation": null,
+          "totalEmployeeGrowthPercent": 1.67,
+          "fiscalPeriod": "FY2..."
+        },
+        {
+          "salesAccuracy": "ACT...",
+          "employeesAtThisLocationAccuracy": null,
+          "employeesTotalAccuracy": "ACT...",
+          "sales": 37180,
+          "periodEndMonth": "May...",
+          "employeesTotal": 120000,
+          "researchAndDevelopment": null,
+          "advertising": null,
+          "employeesAtThisLocation": null,
+          "totalEmployeeGrowthPercent": 4.35,
+          "fiscalPeriod": "FY2..."
+        },
+        {
+          "salesAccuracy": "ACT...",
+          "employeesAtThisLocationAccuracy": null,
+          "employeesTotalAccuracy": "ACT...",
+          "sales": 37121,
+          "periodEndMonth": "May...",
+          "employeesTotal": 115000,
+          "researchAndDevelopment": null,
+          "advertising": null,
+          "employeesAtThisLocation": null,
+          "totalEmployeeGrowthPercent": 6.48,
+          "fiscalPeriod": "FY2..."
+        },
+        {
+          "salesAccuracy": "ACT...",
+          "employeesAtThisLocationAccuracy": null,
+          "employeesTotalAccuracy": "ACT...",
+          "sales": 35622,
+          "periodEndMonth": "May...",
+          "employeesTotal": 108000,
+          "researchAndDevelopment": null,
+          "advertising": null,
+          "employeesAtThisLocation": null,
+          "totalEmployeeGrowthPercent": 2.86,
+          "fiscalPeriod": "FY2..."
+        },
+        {
+          "salesAccuracy": "ACT...",
+          "employeesAtThisLocationAccuracy": null,
+          "employeesTotalAccuracy": "ACT...",
+          "sales": 26820,
+          "periodEndMonth": "May...",
+          "employeesTotal": 105000,
+          "researchAndDevelopment": null,
+          "advertising": null,
+          "employeesAtThisLocation": null,
+          "totalEmployeeGrowthPercent": 22.09,
+          "fiscalPeriod": "FY2..."
+        },
+        {
+          "salesAccuracy": "ACT...",
+          "employeesAtThisLocationAccuracy": null,
+          "employeesTotalAccuracy": "ACT...",
+          "sales": 23252,
+          "periodEndMonth": "May...",
+          "employeesTotal": 86000,
+          "researchAndDevelopment": null,
+          "advertising": null,
+          "employeesAtThisLocation": null,
+          "totalEmployeeGrowthPercent": 2.1,
+          "fiscalPeriod": "FY2..."
+        },
+        {
+          "salesAccuracy": "ACT...",
+          "employeesAtThisLocationAccuracy": null,
+          "employeesTotalAccuracy": "ACT...",
+          "sales": 22430,
+          "periodEndMonth": "May...",
+          "employeesTotal": 84233,
+          "researchAndDevelopment": 2741,
+          "advertising": null,
+          "employeesAtThisLocation": null,
+          "totalEmployeeGrowthPercent": 12.8,
+          "fiscalPeriod": "FY2..."
+        },
+        {
+          "salesAccuracy": "ACT...",
+          "employeesAtThisLocationAccuracy": null,
+          "employeesTotalAccuracy": "ACT...",
+          "sales": 17996,
+          "periodEndMonth": "May...",
+          "employeesTotal": 74674,
+          "researchAndDevelopment": null,
+          "advertising": null,
+          "employeesAtThisLocation": null,
+          "totalEmployeeGrowthPercent": 33.03,
+          "fiscalPeriod": "FY2..."
+        },
+        {
+          "salesAccuracy": "ACT...",
+          "employeesAtThisLocationAccuracy": null,
+          "employeesTotalAccuracy": "ACT...",
+          "sales": 14380,
+          "periodEndMonth": "May...",
+          "employeesTotal": 56133,
+          "researchAndDevelopment": 1872,
+          "advertising": 106,
+          "employeesAtThisLocation": null,
+          "totalEmployeeGrowthPercent": null,
+          "fiscalPeriod": "FY2..."
+        },
+        {
+          "salesAccuracy": "ACT...",
+          "employeesAtThisLocationAccuracy": null,
+          "employeesTotalAccuracy": "ACT...",
+          "sales": 282.1,
+          "periodEndMonth": "May...",
+          "employeesTotal": 2207,
+          "researchAndDevelopment": null,
+          "advertising": null,
+          "employeesAtThisLocation": null,
+          "totalEmployeeGrowthPercent": 220600,
+          "fiscalPeriod": "FY1..."
+        },
+        {
+          "salesAccuracy": "ACT...",
+          "employeesAtThisLocationAccuracy": null,
+          "employeesTotalAccuracy": "ACT...",
+          "sales": 131.3,
+          "periodEndMonth": "May...",
+          "employeesTotal": 1,
+          "researchAndDevelopment": null,
+          "advertising": null,
+          "employeesAtThisLocation": null,
+          "totalEmployeeGrowthPercent": null,
+          "fiscalPeriod": "FY1..."
+        }
+      ]
+    }
+  },
+  "ultimateParentName": "(on-file)",
+  "legalStatus": "Corporation",
+  "companyType": "PUB...",
+  "historicalText": "",
+  "industries": {
+    "primaryDnBIC": "1121",
+    "primaryUKSIC": "72.210",
+    "allNAICS": {
+      "item": [
+        {
+          "description": "Software Publishers",
+          "naics": "511210"
+        },
+        {
+          "description": "Computer Systems Design Services",
+          "naics": "541512"
+        },
+        {
+          "description": "Electronic Computer Manufacturing",
+          "naics": "334111"
+        },
+        {
+          "description": "Semiconductor and Related Device Manufacturing",
+          "naics": "334413"
+        },
+        {
+          "description": "Computer Training",
+          "naics": "611420"
+        }
+      ]
+    },
+    "allUSSIC": {
+      "item": [
+        {
+          "ussic": "73720000",
+          "description": "Prepackaged software"
+        },
+        {
+          "ussic": "36740207",
+          "description": "Microprocessors"
+        },
+        {
+          "ussic": "35719903",
+          "description": "Minicomputers"
+        },
+        {
+          "ussic": "73790200",
+          "description": "Computer related consulting services"
+        },
+        {
+          "ussic": "82439903",
+          "description": "Software training, computer"
+        }
+      ]
+    },
+    "lineOfBusiness": "Pre...",
+    "primaryNAICS": "511210",
+    "allUKSIC": {
+      "item": [
+        {
+          "uksic": "72.600",
+          "description": "Other computer related activities"
+        },
+        {
+          "uksic": "32.300",
+          "description": "Manufacture of television and radio receivers, sound or video recording or reproducing apparatus and associated goods"
+        },
+        {
+          "uksic": "72.210",
+          "description": "Publishing of software"
+        },
+        {
+          "uksic": "30.020",
+          "description": "Manufacture of computers and other information processing equipment"
+        },
+        {
+          "uksic": "80.220",
+          "description": "Technical and vocational secondary education"
+        }
+      ]
+    },
+    "allDnBIC": {
+      "item": [
+        {
+          "dnbic": "1121",
+          "description": "Computer Software"
+        },
+        {
+          "dnbic": "1125",
+          "description": "Business Intelligence Software"
+        },
+        {
+          "dnbic": "1127",
+          "description": "Content & Document Management Software"
+        },
+        {
+          "dnbic": "1130",
+          "description": "Development Tools, Operating Systems & Utilities Software"
+        }
+      ]
+    },
+    "primaryUSSIC": "73720000"
+  },
+  "dbaNames": {
+    "dba": [
+      "Oracle"
+    ]
+  },
+  "legalStructureDescription": null,
+  "companyId": "24135627289741",
+  "rankings": {
+    "rank": [
+      {
+        "definition": "FOR...",
+        "rankNumber": 77
+      },
+      {
+        "definition": "S&P...",
+        "rankNumber": null
+      },
+      {
+        "definition": "FOR...",
+        "rankNumber": 77
+      }
+    ]
+  },
+  "manufacturingIndicator": "Com...",
+  "minorityOwned": false,
+  "ownershipYear": "1977",
+  "topExecutives": {
+    "official": [
+      {
+        "person": {
+          "suffix": "",
+          "firstName": "Lawrence",
+          "middleName": "J.",
+          "lastName": "Ellison",
+          "age": 72,
+          "prefix": "Mr.",
+          "gender": "",
+          "fullName": "Law..."
+        },
+        "connectMail": {
+          "connectMailEmailSource": false,
+          "connectMailPhoneSource": false,
+          "connectMailNameSource": false,
+          "connectMailSource": "Non..."
+        },
+        "coOfficialId": 1291522000000000,
+        "latestPosition": {
+          "title": "Exe...",
+          "jobFunction": {
+            "jobFunctionId": [
+              35,
+              55
+            ]
+          },
+          "endYear": "Pre...",
+          "startYear": "2014",
+          "mrc": {
+            "mrcId": []
+          }
+        },
+        "latestSalary": {
+          "salary": 1,
+          "bonus": null,
+          "year": 2015,
+          "totalSalary": 63639536
+        }
+      },
+      {
+        "person": {
+          "suffix": "",
+          "firstName": "Jeffrey",
+          "middleName": "O.",
+          "lastName": "Henley",
+          "age": 71,
+          "prefix": "Mr.",
+          "gender": "",
+          "fullName": "Jef..."
+        },
+        "connectMail": {
+          "connectMailEmailSource": false,
+          "connectMailPhoneSource": false,
+          "connectMailNameSource": false,
+          "connectMailSource": "Non..."
+        },
+        "coOfficialId": 1291521000000000,
+        "latestPosition": {
+          "title": "Vic...",
+          "jobFunction": {
+            "jobFunctionId": [
+              180
+            ]
+          },
+          "endYear": "Pre...",
+          "startYear": "2014",
+          "mrc": {
+            "mrcId": []
+          }
+        },
+        "latestSalary": {
+          "salary": 693750,
+          "bonus": 2963000,
+          "year": 2005,
+          "totalSalary": null
+        }
+      },
+      {
+        "person": {
+          "suffix": "",
+          "firstName": "Mark",
+          "middleName": "V.",
+          "lastName": "Hurd",
+          "age": 60,
+          "prefix": "Mr.",
+          "gender": "",
+          "fullName": "Mar..."
+        },
+        "connectMail": {
+          "connectMailEmailSource": false,
+          "connectMailPhoneSource": false,
+          "connectMailNameSource": false,
+          "connectMailSource": "Non..."
+        },
+        "coOfficialId": 2407321000000000,
+        "latestPosition": {
+          "title": "CEO",
+          "jobFunction": {
+            "jobFunctionId": [
+              15
+            ]
+          },
+          "endYear": "Pre...",
+          "startYear": "2014",
+          "mrc": {
+            "mrcId": []
+          }
+        },
+        "latestSalary": {
+          "salary": 950000,
+          "bonus": null,
+          "year": 2015,
+          "totalSalary": 53245128
+        }
+      }
+    ]
+  },
+  "ethnicity": "Unknown",
+  "accountingFirm": "Ern...",
+  "historicalIndicator": false,
+  "ultimateDomesticParentName": "(on-file)",
+  "vat": null,
+  "spaceAtAddress": 2000000,
+  "keyFinancials": {
+    "incomeAssets": {
+      "netIncome": 8901,
+      "netIncomeGrowthPercent": -10.43,
+      "period": "FY2...",
+      "salesGrowthPercent": -3.08,
+      "assets": 112180
+    },
+    "marketValueInfo": {
+      "marketValue": 184378.99,
+      "marketValueDate": "201..."
+    }
+  },
+  "numberOfPCs": null,
+  "primaryURLs": {
+    "primaryUrl": [
+      {
+        "url": "www...",
+        "sortOrder": 1
+      },
+      {
+        "url": "www...",
+        "sortOrder": 2
+      },
+      {
+        "url": "www...",
+        "sortOrder": 3
+      }
+    ]
+  },
+  "legalStructureCode": null,
+  "ultimateDomesticParent": "242785365",
+  "smallBusinessIndicator": false,
+  "subsidiaryStatus": false,
+  "foreignTrades": null,
+  "spaceAtAddressUnitOfMeasurement": "sq ...",
+  "stocks": {
+    "tickerUS": "ORC...",
+    "exchangeInfoList": {
+      "exchangeInfo": [
+        {
+          "country": "Germany",
+          "tickerSymbol": "ORC",
+          "exchangeName": "Ber..."
+        },
+        {
+          "country": "Argentina",
+          "tickerSymbol": "ORC...",
+          "exchangeName": "Bue..."
+        },
+        {
+          "country": "Argentina",
+          "tickerSymbol": "ORC...",
+          "exchangeName": "Bue..."
+        },
+        {
+          "country": "Germany",
+          "tickerSymbol": "ORC",
+          "exchangeName": "Dus..."
+        },
+        {
+          "country": "Germany",
+          "tickerSymbol": "ORC",
+          "exchangeName": "Ger..."
+        },
+        {
+          "country": "Germany",
+          "tickerSymbol": "ORC",
+          "exchangeName": "Ham..."
+        },
+        {
+          "country": "Germany",
+          "tickerSymbol": "ORC",
+          "exchangeName": "Han..."
+        },
+        {
+          "country": "Peru",
+          "tickerSymbol": "ORC...",
+          "exchangeName": "Lim..."
+        },
+        {
+          "country": "Mexico",
+          "tickerSymbol": "ORC...",
+          "exchangeName": "Mex..."
+        },
+        {
+          "country": "United States",
+          "tickerSymbol": "ORC...",
+          "exchangeName": "NYS..."
+        },
+        {
+          "country": "United States",
+          "tickerSymbol": "ORC...",
+          "exchangeName": "NYS..."
+        },
+        {
+          "country": "United States",
+          "tickerSymbol": "ORC...",
+          "exchangeName": "One..."
+        },
+        {
+          "country": "Chile",
+          "tickerSymbol": "ORC...",
+          "exchangeName": "San..."
+        },
+        {
+          "country": "Brazil",
+          "tickerSymbol": "ORC...",
+          "exchangeName": "Sao..."
+        },
+        {
+          "country": "Switzerland",
+          "tickerSymbol": "ORC...",
+          "exchangeName": "Swi..."
+        },
+        {
+          "country": "Switzerland",
+          "tickerSymbol": "ORC...",
+          "exchangeName": "Swi..."
+        },
+        {
+          "country": "United Kingdom",
+          "tickerSymbol": "ORC...",
+          "exchangeName": "Tur..."
+        },
+        {
+          "country": "Germany",
+          "tickerSymbol": "ORC",
+          "exchangeName": "XET..."
+        }
+      ]
+    },
+    "exchangePrimary": {
+      "country": "United States",
+      "tickerSymbol": "ORC...",
+      "exchangeName": "NYS..."
+    }
+  },
+  "spaceAtAddressAccuracy": 0,
+  "ultimateParentDuns": "242785365",
+  "name": "ORACLE CORPORATION",
+  "locationType": "HEA...",
+  "fullDescription": "<p>...",
+  "fein": "542185193",
+  "currencyType": "USD",
+  "franchiseOperationType": "",
+  "synopsis": "<p>...",
+  "parentDuns": "242785365",
+  "womenOwned": false,
+  "crn": null,
+  "ownedOrLeased": "Loc...",
+  "coverages": [
+    {
+        "name": "AAA",
+        "selected": "Y",
+        "value": "1234",
+        "type": "S",
+        "premiumAmount": "500"
+    },
+    {
+        "name": "BBBB",
+        "selected": "Y",
+        "value": "5678",
+        "type": "S",
+        "premiumAmount": "500"
+    },
+    {
+        "name": "CCCC",
+        "selected": "Y",
+        "value": "9012",
+        "type": "S",
+        "premiumAmount": "500"
+    },
+    {
+        "name": "ZZZ",
+        "selected": "Y",
+        "value": "3456",
+        "type": "O",
+        "premiumAmount": "500"
+    },
+    {
+        "name": "XXXX",
+        "selected": "N",
+        "value": "7890",
+        "type": "O",
+        "premiumAmount": "500"
+    },
+    {
+        "name": "YYYY",
+        "selected": "Y",
+        "value": "1234",
+        "type": "O",
+        "premiumAmount": "500"
+    }
+  ],
+  "primaryClassCode": {
+    "classCode": "070334",
+    "classCodeDesc": "Office: Business Management Consulting"
+  }
+}

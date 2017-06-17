@@ -17,6 +17,7 @@ export class CompanyDetailsService {
 
    public getCompanyDetails(companyId: number): Promise<Object> {
     let url = this.API_URL + companyId;
+    //url = '/assets/mockCompanyDetails.json'
     console.log('URL used for service: ', url);
 
     let extractData = (response) => {
